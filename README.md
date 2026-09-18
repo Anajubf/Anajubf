@@ -18,9 +18,9 @@ Sou apaixonada por tecnologia e desenvolvimento. Meu foco atual está em:
 
 ### 📍 Projetos
 
-- [MVC Harry Potter](https://github.com/Anajubf/MVC-Harry-Potter) - Uma das minhas primeiras atividades aplicando o padrão MVC.
-- [POO2](https://github.com/Anajubf/POO2) - Uma das minhas primeiras atividades de Programação Orientada a Objetos.
-- [Formulário Front-end](https://github.com/Anajubf/formulario) - Atividade prática de criação e estilização de formulários web.
+- [MVC Harry Potter](https://github.com/Anajubf/MVC-Harry-Potter) - Aplicação desenvolvida para praticar a arquitetura MVC, focando na separação de responsabilidades e organização de código.
+- [POO2](https://github.com/Anajubf/POO2) - Projeto prático focado na consolidação dos pilares da Programação Orientada a Objetos (POO), como herança, encapsulamento e polimorfismo.
+- [Formulário Front-end](https://github.com/Anajubf/formulario) - Interface web responsiva desenvolvida com foco em boas práticas de UX/UI, validação de campos e estilização moderna.
 
 ---
 
